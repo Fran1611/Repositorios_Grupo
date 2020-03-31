@@ -7,6 +7,8 @@ namespace Repositorios_Grupo
         static void Main(string[] args)
         {
             Console.WriteLine("Joaquín Montandon");
+            Console.WriteLine("Francisco Ibañez");
+            
         }
     }
 }
