@@ -8,6 +8,8 @@ namespace Repositorios_Grupo
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Agustín Arévalo");
+            Console.WriteLine("Francisco Ibañez");
+            Console.WriteLine("Juan Andrés Leal");
         }
     }
 }

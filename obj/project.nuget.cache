@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9dX4HFHIt0BpB5uS38Z9biRTm8tM7aFWoXoy4e6zikjf4iXV4Nt2jmSubAZYBI8UryXDsrIVTzi7Elz8pP4Luw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\FIT\\Documents\\GitHub\\Repositorios_Grupo\\Repositorios_Grupo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FIT\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\FIT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\FIT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\FIT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
